@@ -7,7 +7,8 @@
 - HTML
 - CSS, SASS/SCSS, Flexbox, BEM
 - JavaScript
-- Git
+- Git, GitHub, GitFlic
 - Webpack
-- Vue.js, React.js
+- Vue.js
+- React.js
 ```
