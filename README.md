@@ -12,3 +12,5 @@
 - Vue.js
 - React.js
 ```
+
+My contacts: mercy1ess@list.ru
