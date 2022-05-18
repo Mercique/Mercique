@@ -9,7 +9,6 @@
 - JavaScript
 - Git, GitHub, GitFlic
 - Webpack
-- Vue.js
 - React.js
 ```
 
