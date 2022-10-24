@@ -5,11 +5,12 @@
 **My skills:**
 ```
 - HTML
-- CSS, SASS/SCSS, Flexbox, BEM
+- CSS
 - JavaScript
-- Git, GitHub, GitFlic
+- Git
 - Webpack
 - React.js
+- TypeScript
 ```
 
 My contacts: mercy1ess@list.ru
