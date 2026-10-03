@@ -1,16 +1,8 @@
-# Hello everyone! &#128075;
-
-### I'm Ilya and i'm a frontend developer from Moscow, Russia. Looking for a job!
-
-**My skills:**
+**My stack:**
 ```
-- HTML
-- CSS
-- JavaScript (basic)
-- Git, GitHub
-- Webpack  (basic)
-- React.js  (basic)
-- TypeScript  (entry level)
+- HTML5
+- CSS3
+- JavaScript
+- Git, Git Flow
+- React.js, Redux, MobX
 ```
-
-My contacts: mercy1ess@list.ru
